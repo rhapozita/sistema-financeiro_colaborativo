@@ -1,5 +1,5 @@
 # Projeto colaborativo
-## Projeto colaborativo para o curso de Data Science - Módulo 1 no Sanatnder Coders 2024
+Projeto colaborativo para o curso de Data Science - Módulo 1 no Sanatnder Coders 2024
 
 ## Sistema financeiro em Python:
 - Receitas
